@@ -1,0 +1,6 @@
+{
+  "name": "MITRA Vocational Gov-Tech Ecosystem",
+  "description": "National vocational education (SMK) and youth workforce readiness ecosystem featuring verified digital identity, apprenticeship telemetry, graduate tracer analytics, and career counseling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
